@@ -6,7 +6,7 @@
   - Open Source Contribution
   
 - 🛠 Currently working on:
-  - Portfoliio Website
+  - Portfolio Website
 
 
 - 🌱 I’m currently learning:
